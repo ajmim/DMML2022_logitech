@@ -4,8 +4,8 @@
 Jeager
 
 ### Participants
-Mohamed Ajmi: mohamed.ajmi@unil.ch
-Maxime Pillard: maxime.pillard@unil.ch
+Mohamed Ajmi: mohamed.ajmi@unil.ch 
+Maxime Pillard: maxime.pillard@unil.ch 
 
 ### Description of the project
 [] ADD DESCR.
