@@ -1,18 +1,12 @@
-'''
-
 from pprint import pprint
-import functools
 
 import torch  # GPU optim. + gradient opt.
-from torch.utils.data import DataLoader
-import torch.nn.functional as F
 import pytorch_lightning as pl
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, AutoConfig
-from datasets import load_dataset
 from sklearn.metrics import confusion_matrix, f1_score
+import torch.nn.functional as F
 
 import matplotlib.pyplot as plt
-import seaborn as sns
 from tqdm.notebook import tqdm
 
 
@@ -82,4 +76,4 @@ class LightningModel(pl.LightningModule):
         )
 
 
-'''
+
