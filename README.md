@@ -31,7 +31,11 @@ Please note that the results for the last model could vary because of shuffling 
 
 
 ### Presentation video
-[] ADD LINK
+
+
+[![Video](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg)](https://youtu.be/RubLaUYSA2A)
+
+
 
 ## Part 1
 For each model, we run the accuracy, precision, f1 and recall score. We also used grid search to optimize the results.
