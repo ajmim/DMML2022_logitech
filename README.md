@@ -1,12 +1,12 @@
 # README
-### Github contributors**
+### Github contributors
 Team Jeager
 - Mohamed Ajmi: mohamed.ajmi@unil.ch 
 - Maxime Pillard: maxime.pillard@unil.ch
 
 ### Description of the project
 In the context of our Data Mining and Machine Learning course at the IS Master at HEC Lausanne, we worked on a language classification project.
-The analysed data is composed of two columns, sentence and difficulty (labels).
+The analysed data is composed of two columns, sentence and difficulty.
 
 
 ![Sample of data](/documentation/data1.PNG)
@@ -26,7 +26,7 @@ In Part 2, we used the CamemBERT model to classify French sentences by language 
 ### Summary table
 [] ADD TABLE
 
-### Link to video
+### Presentation video
 [] ADD LINK
 
 ## Part 1
