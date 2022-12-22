@@ -1,14 +1,7 @@
-from pprint import pprint
-
 import torch  # GPU optim. + gradient opt.
 import pytorch_lightning as pl
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, AutoConfig
 from sklearn.metrics import confusion_matrix, f1_score
-import torch.nn.functional as F
-
-import matplotlib.pyplot as plt
-from tqdm.notebook import tqdm
-
 
 class LightningModel(pl.LightningModule):
     def __init__(self, model_name, num_labels, lr, weight_decay, from_scratch=False):
