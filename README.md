@@ -18,6 +18,8 @@ In Part 1 of the project, we trained multiple models on the raw data (no cleanin
 - DecisionTreeClassifier
 - RandomForestClassifier
 - XGBClassifier
+
+
 In Part 2, we used the CamemBERT model to classify French sentences by language proficiency levels (A1, A2, B1, B2, C1, C2). We started by exploring the model and using the model documentation to understand its capabilities and how it works. However, we encountered some issues while implementing the model, so we adapted our code and explored the inner workings of the model to better understand it. Once we had a good understanding of the model, we were able to make improvements by adjusting some parameters.
 
 
