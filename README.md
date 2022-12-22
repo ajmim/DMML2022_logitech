@@ -7,7 +7,7 @@ Team Jeager
 ### Description of the project
 In the context of our Data Mining and Machine Learning course at the IS Master at HEC Lausanne, we worked on a language classification project.
 The analysed data is composed of two columns, sentence and difficulty (labels).
-![Sample of data](/documentation/data1.png)
+![Sample of data](/documentation/data1.PNG)
 
 In Part 1 of the project, we trained multiple models on the raw data (no cleaning or processing). The models were:
 - LogisticRegression
