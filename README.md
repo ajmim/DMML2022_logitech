@@ -24,7 +24,11 @@ In Part 2, we used the CamemBERT model to classify French sentences by language 
 
 
 ### Summary table
-[] ADD TABLE
+Please note that the results for the last model could vary because of shuffling the training set at every iteration.
+
+
+![Summary table](/documentation/table.png)
+
 
 ### Presentation video
 [] ADD LINK
