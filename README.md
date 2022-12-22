@@ -33,7 +33,7 @@ Please note that the results for the last model could vary because of shuffling 
 ### Presentation video
 
 
-[![Video](https://imageio.forbes.com/specials-images/dam/imageserve/966248982/960x0.jpg)](https://youtu.be/RubLaUYSA2A)
+[![Video]()](https://youtu.be/RubLaUYSA2A)
 
 
 
