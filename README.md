@@ -1,6 +1,6 @@
 # README
 ### Github contributors
-Team Jeager
+Team Jeager (December 2022)
 - Mohamed Ajmi: mohamed.ajmi@unil.ch 
 - Maxime Pillard: maxime.pillard@unil.ch
 
